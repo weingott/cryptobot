@@ -1,0 +1,20 @@
+                           
+{
+    "coinbasepro": {
+        "api_url": "https://api.pro.coinbase.com",
+        "stats": 1,
+        "graphs": 1,
+        "config": {
+            "base_currency": "BTC",
+            "quote_currency": "EUR",
+            "granularity": "3600",
+            "live": 1,
+            "verbose": 1
+        },
+        "api_key_file": "coinbasepro.key"
+    },
+    "telegram": {
+        "token": "",
+        "client_id": ""
+    }
+}
